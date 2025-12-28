@@ -1,4 +1,3 @@
-```markdown
 # Net Centric Lab 4 - Distributed Weather System
 
 This project simulates a distributed system with Weather Stations sending data to a Central Station via Kafka, orchestrated using Docker and Kubernetes.
@@ -99,11 +98,5 @@ kubectl get pods
 5. **Stop:**
 ```bash
 minikube stop
-
-```
-
-
-
-```
 
 ```
