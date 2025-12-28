@@ -1,0 +1,3 @@
+target/
+kubectl
+minikube-linux-amd64
